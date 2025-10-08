@@ -1,0 +1,5 @@
+ESPECIFICACION DE REQUISITOS
+
+1. Login para acceso a parte privada
+2. Dashboard
+3. Si
